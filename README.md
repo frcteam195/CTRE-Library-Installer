@@ -1,4 +1,4 @@
-# CTRE Library Installer
+# CTRE Library Installer (Unofficial)
 
 ![CTRE logo](https://github.com/CrossTheRoadElec/Phoenix-Documentation/blob/master/images/General-Title.png?raw=true)
 
